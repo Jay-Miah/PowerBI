@@ -55,3 +55,4 @@ The project emphasises **data storytelling**, helping users understand:
 
 Each report is structured to reveal insights progressively, making the data accessible and actionable.
 
+<img width="788" height="444" alt="image" src="https://github.com/user-attachments/assets/b03fb4f5-85db-4cb0-9306-4e66d2beb906" />
